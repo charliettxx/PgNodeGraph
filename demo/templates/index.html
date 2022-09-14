@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Query</title>
+    <style>
+        html ,body{
+            height:100%;
+            margin:0;
+            color: white;
+            text-align: center;
+        }
+        body{
+            background:linear-gradient(#1078c7,#7196b4);
+        }
+        form {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form action="" method="POST">
+        {% csrf_token %}
+        <input name="query" type="text" placeholder="query">
+        <button type="submit">submit</button>
+    </form>
+</body>
+</html>
+
