@@ -17,9 +17,8 @@ HOW TO USE IT
 
 1、copy string you get in gdb: p NodeToString(xxxxx)
 
-2、 paste string you get in step one to wesite Like:
-
 ![image](https://user-images.githubusercontent.com/108248800/190118833-ccb732ea-8fbc-48cb-93d5-3b0e918e5401.png)
 
+2、 paste string you get in step one to wesite Like:
 
 ![image](https://user-images.githubusercontent.com/108248800/190117907-dbfa4eb8-3c75-486c-87b2-dc216598ba1b.png)
