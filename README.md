@@ -11,7 +11,7 @@ HOW TO INSTALL
 
 2、start your server: python3 manage.py runserver 0.0.0.0:8888
 
-If you cannot install you, just step to my server and try it first 10.117.190.149:8888
+If you cannot install, just step to my server and try it first 10.117.190.149:8888
 
 HOW TO USE IT
 
