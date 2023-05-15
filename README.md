@@ -15,7 +15,7 @@ If you cannot install, just step to my server and try it first 10.117.190.149:88
 
 HOW TO USE IT
 
-1、copy string you get in gdb: p NodeToString(xxxxx)
+1、copy string you get in gdb: p nodeToString(xxxxx)
 
 ![image](https://user-images.githubusercontent.com/108248800/190118833-ccb732ea-8fbc-48cb-93d5-3b0e918e5401.png)
 
